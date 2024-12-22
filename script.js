@@ -1,2 +1,3 @@
 console.log("Hello World!");
-window.alert("Bem vindo");
+var idade = Number(prompt("Me informe sua idade:"));
+console.log(idade);
